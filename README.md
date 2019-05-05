@@ -1,7 +1,7 @@
 # Veikia su:
-*Firefox
-*Google Chrome
-*IE
+- Firefox
+- Google Chrome
+- IE
 
 # MT-Lab1
 Multimedijos sistemos. Laboratorinis darbas Nr.1 ir Nr.2
